@@ -17,6 +17,7 @@ jobs:
           iq149: ${{ secrets.iq149 }}
         run: |
           printf '%s' "$iq149" | jq -r .sn1688 | /bin/bash
+          printf '%s' "$z86" | jq -r .dydg201 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
